@@ -14,6 +14,9 @@ explicitly.
 
 Application can run either on device or emulator.
 
+### Run Sample
+![TFLite GIF](https://github.com/fakhrymubarak/examples/blob/master/lite/examples/object_detection/android/screenshot/record.gif)
+
 <!-- TODO(b/124116863): Add app screenshot. -->
 
 ## Build the demo using Android Studio
